@@ -1,0 +1,22 @@
+{   "calls": [
+    {
+      "number": "10086",
+      "commands": ["1", "1", "1", "1"],
+      "delayTime": 2
+    },
+    {
+        "number": "15014279035",
+      "commands": ["1", "2"],
+      "delayTime": 2
+    }
+  ],
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
