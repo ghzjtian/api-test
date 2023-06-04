@@ -1,12 +1,12 @@
 {   "calls": [
     {
       "number": "10086",
-      "commands": ["1", "1", "1", "1"],
+      "commands": ["1", "2", "3", "4"],
       "delayTime": 2
     },
     {
         "number": "15014279035",
-      "commands": ["1", "2"],
+        "commands": ["1", "2", "3", "4"],
       "delayTime": 2
     }
   ],
