@@ -10,6 +10,11 @@
       "delayTime": 2
     }
   ],
+  "call": {
+    "number": "10086",
+    "commands": ["1", "1", "1", "1"],
+    "delayTime": 2
+  },
     "posts": [
       {
         "id": 1,
