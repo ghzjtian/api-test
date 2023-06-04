@@ -13,7 +13,7 @@
   "call": {
     "number": "10086",
     "commands": ["1", "1", "1", "1"],
-    "delayTime": 2
+    "delayTime": 1
   },
     "posts": [
       {
